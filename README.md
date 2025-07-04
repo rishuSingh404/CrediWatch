@@ -299,7 +299,7 @@ We welcome contributions! Please follow these steps:
 
 **CrediWatch** - Your Trusted Credit Risk Assessment Partner
 
-[![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/yourusername/crediwatch)
+[![Made with ❤️ by Rishu Kumar Singh](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/yourusername/crediwatch)
 
 </div>
 
