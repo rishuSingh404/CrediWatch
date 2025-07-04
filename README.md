@@ -15,8 +15,7 @@
 - [Model Performance](#model-performance)
 - [Project Structure](#project-structure)
 - [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## 🎯 Overview
 
@@ -286,15 +285,7 @@ We welcome contributions! Please follow these steps:
 - Update documentation as needed
 - Ensure all tests pass before submitting
 
-## 📝 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-- **📧 Email**: support@crediwatch.com
-- **🐛 Issues**: [GitHub Issues](https://github.com/yourusername/crediwatch/issues)
-- **📖 Documentation**: [Wiki](https://github.com/yourusername/crediwatch/wiki)
 
 ## 🙏 Acknowledgments
 
